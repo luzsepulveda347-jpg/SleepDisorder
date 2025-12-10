@@ -1,0 +1,10 @@
+View(sleep)
+mean(sleep$`Sleep Duration`)
+median(sleep$`Sleep Duration`)
+mean(sleep$`Sleep Duration`, trim = 0.05)
+sd(sleep$`Sleep Duration`)
+
+mean(sleep$`Quality of Sleep`)
+median(sleep$`Quality of Sleep`)
+mean(sleep$`Quality of Sleep`, trim = 0.05)
+sd(sleep$`Quality of Sleep`)
